@@ -32,3 +32,21 @@ Quando dois corpos que se deslocam na mesma reta se chocam, ocorre uma **colisã
 |Conservação da Energia Cinética|
 |:---:|
 |$$E_ca=E_CD \Longrightarrow m_A v_0^{2} = m_A v_a^{2}+m_B v_B$$|
+
+
+## Impulso e Quantidade de  Movimento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
