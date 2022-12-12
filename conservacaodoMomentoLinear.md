@@ -17,7 +17,13 @@ Quando dois corpos que se deslocam na mesma reta se chocam, ocorre uma **colisã
 
 |Antes da Colisão|
 |:---:|
-|$Q_a=m_a v_0$|
+|$Q_a=m v$|
+|$$E=\dfrac{mv^{2}}{2}$$|
+
+|Depois da Colisão|
+|:---:|
+|$Q_a=m_a v_a + m_b v_b$|
+|$$E=\dfrac{mv}{2}$$|
 
 
 
