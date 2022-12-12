@@ -36,7 +36,11 @@ Quando dois corpos que se deslocam na mesma reta se chocam, ocorre uma **colisã
 
 ## Impulso e Quantidade de  Movimento
 
+O impulso é uma grandeza física que estuda a interação de uma força aplicada a um corpo com o tempo de aplicação. A aplicação do impulso determina a variação da quantidade de movimento (Teorema do Impulso).
 
+Para uma força de módulo constante agindo em um intervalo de tempo o impulso é: 
+
+$$\vec {I} = \vec {F} \Delta {T}$$
 
 
 
