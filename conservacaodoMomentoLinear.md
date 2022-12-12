@@ -10,8 +10,14 @@ O momento linear também é conhecido como quantidade de movimento, e, é uma gr
 
 Sendo essa uma grandeza vetorial e sua unidade é o __*km.m/s.*__
 	Se considerarmos um sistema de corpos livres de forças externas ou a somatória vetorial dessas forças seja nula, **o momento linear total se conserva.**
+Quando dois corpos que se deslocam na mesma reta se chocam, ocorre uma **colisão frontal ou unidimensional.** E, caso a energia cinética total antes do choque seja igual à energia cinética total depois, o choque é dito **perfeitamente elástico.**
 
+|Choques perfeitamente elásticos|
+|:---:|
 
+|Antes da Colisão|
+|:---:|
+|$Q_a=m_a v_0$|
 
 
 
