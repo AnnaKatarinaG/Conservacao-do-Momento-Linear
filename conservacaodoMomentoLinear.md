@@ -23,7 +23,7 @@ Quando dois corpos que se deslocam na mesma reta se chocam, ocorre uma **colisã
 |Depois da Colisão|
 |:---:|
 |$Q_a=m_a v_a + m_b v_b$|
-|$$E=\dfrac{mv}{2}$$|
+|$$E=\dfrac{m_a v_a^{2}}{2}+\dfrac{m_b v_b^{2}}{2}$$|
 
 
 
