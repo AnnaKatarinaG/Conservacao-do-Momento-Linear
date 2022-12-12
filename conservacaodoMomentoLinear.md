@@ -25,5 +25,10 @@ Quando dois corpos que se deslocam na mesma reta se chocam, ocorre uma **colisã
 |$Q_a=m_a v_a + m_b v_b$|
 |$$E=\dfrac{m_a v_a^{2}}{2}+\dfrac{m_b v_b^{2}}{2}$$|
 
+|Conservação da Quantidade do Movimento|
+|:---:|
+|$$Q_a=Q_d \Longrightarrow m_A V_0=m_A V_A = m_B V_B $$|
 
-
+|Conservação da Energia Cinética|
+|:---:|
+|$$E_ca=E_CD \Longrightarrow m_A v_0^{2} = m_A v_a^{2}+m_B v_B$$|
